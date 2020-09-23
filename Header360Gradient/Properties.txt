@@ -1,0 +1,59 @@
+
+  HeaderInfo UserControl   v3.0.1
+  ----------------------
+  
+  Properties
+  ----------
+
+  BorderColor
+
+  BorderShape          Rectangle
+                       Rounded
+                       RoundedTop
+
+  BorderVisible        True/False
+
+  Caption
+
+  CaptionAlign         Left
+                       Center
+                       Right
+
+  CaptionStyle         Normal
+                       Sunken
+                       Raised
+
+  CornerSize           Small
+                       Large
+
+  Font
+
+  ForeShadow           Text Shadow Color
+
+  ForeColor            Text Color
+
+  GradientAngle        0 - 359.9 Degree's
+
+  GradientFinish       Color
+
+  GradientFinishStyle  Transparent
+                       Opaque
+
+  GradientStart        Color
+
+  Picture              Image on HeaderInfo
+
+  PictureAlign         Left Edge
+                       Left of Caption
+                       Top center
+                       Bottom center
+                       Right of Edge
+                       Right of caption
+  
+  PictureSize          16x16
+                       24x24
+                       32x32
+                       Fill Stretch
+                       Fill scale Up/Down
+
+
